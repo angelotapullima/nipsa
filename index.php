@@ -1,3 +1,5 @@
+create by angelo
+
 <?php 
     require_once "./core/configGeneral.php" ;
     require_once "./controladores/vistasControlador.php" ;
