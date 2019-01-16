@@ -1,4 +1,4 @@
-create by angelo
+create by angelo 2019
 
 <?php 
     require_once "./core/configGeneral.php" ;
