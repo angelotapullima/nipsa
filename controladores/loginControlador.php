@@ -64,9 +64,6 @@
 
                     return $urlLocation='<script>window.location="'.$url.'"</script>';
 
-
-
-
                 }else{
                     $alerta=[
                         "Alerta"=>"simple",

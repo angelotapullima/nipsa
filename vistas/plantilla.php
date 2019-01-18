@@ -46,10 +46,17 @@
     <!-- Content page -->
     <?php require_once $vistasR; ?>
 		
+		
   </section>
-    <?php endif; ?>
+		<?php
+			include "./vistas/modulos/logoutScript.php";
+		endif; 
+		?>
 
 	<!--====== Scripts -->
+	<script>
+		$.material.init();
+	</script>
 	
 </body>
 </html>
